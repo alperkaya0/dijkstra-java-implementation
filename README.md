@@ -4,9 +4,9 @@ Graph Hardcoded (You don't have to use this you can change it): <br> <br>
 ```
 distances = {a=0, b=3, c=2, d=8, e=10, z=14}
 previous = {a=null, b=c, c=a, d=b, e=d, z=d}
-node before
+(node before
 reaching the
-destination
+destination)
 ```
 <br> <br>
 ![Graph](https://github.com/alperkaya0/djikstra-java-implementation/blob/main/Dijkstra-Algorithm.png)
